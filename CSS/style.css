@@ -1,0 +1,31 @@
+body {
+    background: rgba(16, 236, 218, 0.356);
+    font-size: 1.15em;
+    text-align: justify;
+    font-family: "Lato", sans-serif;
+}
+
+#title {
+    color: rgb( 191, 152, 52);
+    font-family: "Source Sans Pro", sans-serif;
+}
+.subtitle {
+    color: rgb(224, 181, 71);
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+.link {
+    text-decoration: none;
+}
+#service-image {
+    height: 400px;
+    width: 70%;
+
+    /* background: linear-gradient(160deg, rgb(255,0,0),rgba(255, 0, 0, 0)); */
+
+    background: radial-gradient(red 50%, blue 40%, yellow 15%)
+
+}
+.italics {
+    font-style: italic;
+}
